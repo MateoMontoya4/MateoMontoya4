@@ -59,7 +59,7 @@ I’m a Software Development student at IDRA Institute, passionate about buildin
 
   
   
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/octocat.jpeg" height=300 width=300>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFubnhsYWs3OXZreGh3cjB6Nzk2bXpuaHQwazE3ZWxoemUxd3ZyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SQXtEE9FOg6RQTUWd4/giphy.gif" height=300 width=300>
 
  ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
