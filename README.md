@@ -30,7 +30,7 @@ I’m a Software Development student at IDRA Institute, passionate about buildin
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
+**MY SKILLS:**
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=cs"></code>
