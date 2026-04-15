@@ -58,6 +58,10 @@ I’m a Software Development student at IDRA Institute, passionate about buildin
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateo-montoya-9946a83a3/?isSelfProfile=true) 
 
+<p>
+ <a href="mateomontoya414@gmail.com">mateomontoya414@gmail.com</a>
+</p>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=akshitagupta15june.akshitagupta15june)
 
