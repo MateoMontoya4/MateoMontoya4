@@ -31,25 +31,15 @@ I’m a Software Development student at IDRA Institute, passionate about buildin
 
 
 **MY SKILLS:**
-<br/>
-<br/>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=cs"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=css"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=html"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=mysql"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=react"></code>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,python,js,css,html,mysql,react" />
+</p>
+<p align="center">
+  <img height="50" src="https://skillicons.dev/icons?i=github">
+  <img height="50" src="https://skillicons.dev/icons?i=git">
+</p>
 
 
-#
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=github"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=git"></code>
-
-
-
-<br/>
 
  
 <div align="center">
